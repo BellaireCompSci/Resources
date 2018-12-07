@@ -4,12 +4,13 @@ A list of resources for learning and practicing CS
 [Club Website](https://bellairecsclub.weebly.com/)
 
 ## Learn & Practice Competitive Programming
-- [CodeWars](codewars.com)
-- [USACO](usaco.com)
+- [CodeWars](https://codewars.com)
+- [USACO](https://usaco.com)
+- [HackerRank](https://www.hackerrank.com/)
 
 ## Learn about Machine Learning
-- [TensorFlow](tensorflow.org)
-- [Google Research](colab.research.google.com)
+- [TensorFlow](https://tensorflow.org)
+- [Google Research](https://colab.research.google.com)
 
 ## Learn Programming
 - [FreeCodeCamp](https://www.freecodecamp.org/)

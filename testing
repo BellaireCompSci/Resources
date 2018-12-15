@@ -1,0 +1,11 @@
+public class clientcode
+{
+    // instance variables - replace the example below with your own
+    public static void main(String[] args){
+        binarySearchTree tree = new binarySearchTree();
+        for(int i=0;i<1000;i++){
+            tree.add((int)(10000.0*Math.random()));
+        }
+        tree.traverseInOrder(tree.root);
+    }
+}

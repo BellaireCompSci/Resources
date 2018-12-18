@@ -7,6 +7,7 @@ A list of resources for learning and practicing CS
 - [CodeWars](https://codewars.com)
 - [USACO](https://usaco.com)
 - [HackerRank](https://www.hackerrank.com/)
+- [Princeton Algorithms Course](https://www.coursera.org/learn/algorithms-part1)
 
 ## Learn about Machine Learning
 - [TensorFlow](https://tensorflow.org)

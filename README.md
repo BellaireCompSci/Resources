@@ -8,6 +8,7 @@ A list of resources for learning and practicing CS
 - [USACO](https://usaco.com)
 - [HackerRank](https://www.hackerrank.com/)
 - [Princeton Algorithms Course](https://www.coursera.org/learn/algorithms-part1)
+- [UIL Resources](http://www.uiltexas.org/academics/computer-science/resources)
 
 ## Learn about Machine Learning
 - [TensorFlow](https://tensorflow.org)
